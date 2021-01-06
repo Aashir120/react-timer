@@ -1,0 +1,23 @@
+.time-container {
+    height: 30vh;
+    width: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: seagreen;
+    color: wheat;
+    font-size: 50px;
+    border-radius: 100%;
+    box-shadow: 10px 9px 23px rgba(0, 67, 67, 0.5);
+}
+
+.time {
+    font-family: “Roboto”, sans-serif;
+    text-align: justify;
+}
+
+.timer-button-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
